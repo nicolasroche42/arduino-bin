@@ -1,7 +1,17 @@
 # arduino-bin
 
-test1
-![GitHub Logo](bin.gif)
+## Result
+![bin](images/bin.gif)
 
-test2
-![GitHub Logo](/bin.gif)
+## Components
+- Arduino Uno
+![arduino-uno](images/arduino-uno.jpg)
+
+- Distance detector (HC-SR04)
+![hc-sr04](images/hc-sr04.jpg)
+
+- Servo Motor (S3003)
+![s3003](images/s3003.jpg)
+
+## Schema
+![s3003](images/schema.jpg)
